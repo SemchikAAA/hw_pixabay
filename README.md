@@ -1,3 +1,4 @@
+https://pixabay.com/api/docs/#api_rate_limit
 Завдання:
 
 Фільтр:
